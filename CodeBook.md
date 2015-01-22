@@ -84,53 +84,53 @@ tBodyGyroJerkStdY |Jerk signals for Angular Velocity (time domain) - Standard de
 tBodyGyroJerkStdZ |Jerk signals for Angular Velocity (time domain) - Standard deviation Value - Axis:Z |Numeric|
 tBodyAccMagMean |Magnitude (calculated by Euclidian norm) of Body acceleration signals (time domain) - Mean Value |Numeric|
 tBodyAccMagStd |Magnitude (calculated by Euclidian norm) of Body acceleration signals (time domain) - Standard deviation Value |Numeric|
-tGravityAccMagMean | |Numeric|
-tGravityAccMagStd | |Numeric|
-tBodyAccJerkMagMean | |Numeric|
-tBodyAccJerkMagStd | |Numeric|
-tBodyGyroMagMean | |Numeric|
-tBodyGyroMagStd | |Numeric|
-tBodyGyroJerkMagMean | |Numeric|
-tBodyGyroJerkMagStd | |Numeric|
-fBodyAccMeanX | |Numeric|
-fBodyAccMeanY | |Numeric|
-fBodyAccMeanZ | |Numeric|
-fBodyAccStdX | |Numeric|
-fBodyAccStdY | |Numeric|
-fBodyAccStdZ | |Numeric|
-fBodyAccMeanFreqX | |Numeric|
-fBodyAccMeanFreqY | |Numeric|
-fBodyAccMeanFreqZ | |Numeric|
-fBodyAccJerkMeanX | |Numeric|
-fBodyAccJerkMeanY | |Numeric|
-fBodyAccJerkMeanZ | |Numeric|
-fBodyAccJerkStdX | |Numeric|
-fBodyAccJerkStdY | |Numeric|
-fBodyAccJerkStdZ | |Numeric|
-fBodyAccJerkMeanFreqX | |Numeric|
-fBodyAccJerkMeanFreqY | |Numeric|
-fBodyAccJerkMeanFreqZ | |Numeric|
-fBodyGyroMeanX | |Numeric|
-fBodyGyroMeanY | |Numeric|
-fBodyGyroMeanZ | |Numeric|
-fBodyGyroStdX | |Numeric|
-fBodyGyroStdY | |Numeric|
-fBodyGyroStdZ | |Numeric|
-fBodyGyroMeanFreqX | |Numeric|
-fBodyGyroMeanFreqY | |Numeric|
-fBodyGyroMeanFreqZ | |Numeric|
-fBodyAccMagMean | |Numeric|
-fBodyAccMagStd | |Numeric|
-fBodyAccMagMeanFreq | |Numeric|
-fBodyBodyAccJerkMagMean | |Numeric|
-fBodyBodyAccJerkMagStd | |Numeric|
-fBodyBodyAccJerkMagMeanFreq | |Numeric|
-fBodyBodyGyroMagMean | |Numeric|
-fBodyBodyGyroMagStd | |Numeric|
-fBodyBodyGyroMagMeanFreq | |Numeric|
-fBodyBodyGyroJerkMagMean | |Numeric|
-fBodyBodyGyroJerkMagStd | |Numeric|
-fBodyBodyGyroJerkMagmeanFreq | |Numeric|
+tGravityAccMagMean |Magnitude (calculated by Euclidian norm) of Gravity acceleration signals (time domain) - Mean Value  |Numeric|
+tGravityAccMagStd |Magnitude (calculated by Euclidian norm) of Gravity acceleration signals (time domain) - Standard deviation Value   |Numeric|
+tBodyAccJerkMagMean |Magnitude (calculated by Euclidian norm) of Jerk signals for Body Linear Acceleration  (time domain) - Mean Value   |Numeric|
+tBodyAccJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Body Linear Acceleration  (time domain) - Standard Value |Numeric|
+tBodyGyroMagMean |Magnitude (calculated by Euclidian norm) of Body gyroscope  (time domain) - Mean Value |Numeric|
+tBodyGyroMagStd |Magnitude (calculated by Euclidian norm) of Body gyroscope  (time domain) - Standard deviation Value |Numeric|
+tBodyGyroJerkMagMean |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (time domain) - Mean Value |Numeric|
+tBodyGyroJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (time domain) - Standard deviation Value |Numeric|
+fBodyAccMeanX |Body acceleration signals (frequency domain) - Mean Value - Axis:X  |Numeric|
+fBodyAccMeanY |Body acceleration signals (frequency domain) - Mean Value - Axis:Y |Numeric|
+fBodyAccMeanZ |Body acceleration signals (frequency domain) - Mean Value - Axis:Z |Numeric|
+fBodyAccStdX |Body acceleration signals (frequency domain) - Standard deviation Value - Axis:X |Numeric|
+fBodyAccStdY |Body acceleration signals (frequency domain) - Standard deviation Value - Axis:Y |Numeric|
+fBodyAccStdZ |Body acceleration signals (frequency domain) - Standard deviation Value - Axis:Z |Numeric|
+fBodyAccMeanFreqX |Body acceleration signals (frequency domain) - Mean frequency Value - Axis:X |Numeric|
+fBodyAccMeanFreqY |Body acceleration signals (frequency domain) - Mean frequency Value - Axis:Y |Numeric|
+fBodyAccMeanFreqZ |Body acceleration signals (frequency domain) - Mean frequency Value - Axis:Z |Numeric|
+fBodyAccJerkMeanX |Jerk signals for Body Linear Acceleration (frequency domain) - Mean Value - Axis:X |Numeric|
+fBodyAccJerkMeanY |Jerk signals for Body Linear Acceleration (frequency domain) - Mean Value - Axis:Y |Numeric|
+fBodyAccJerkMeanZ |Jerk signals for Body Linear Acceleration (frequency domain) - Mean Value - Axis:Z |Numeric|
+fBodyAccJerkStdX |Jerk signals for Body Linear Acceleration (frequency domain) - Standard deviation Value - Axis:X |Numeric|
+fBodyAccJerkStdY |Jerk signals for Body Linear Acceleration (frequency domain) - Standard deviation Value - Axis:Y |Numeric|
+fBodyAccJerkStdZ |Jerk signals for Body Linear Acceleration (frequency domain) - Standard deviation Value - Axis:Z |Numeric|
+fBodyAccJerkMeanFreqX |Jerk signals for Body Linear Acceleration (frequency domain) - Mean frequency Value - Axis:X |Numeric|
+fBodyAccJerkMeanFreqY |Jerk signals for Body Linear Acceleration (frequency domain) - Mean frequency Value - Axis:Y |Numeric|
+fBodyAccJerkMeanFreqZ |Jerk signals for Body Linear Acceleration (frequency domain) - Mean frequency Value - Axis:Z |Numeric|
+fBodyGyroMeanX |Body gyroscope signals (frequency domain) - Mean Value - Axis:X |Numeric|
+fBodyGyroMeanY |Body gyroscope signals (frequency domain) - Mean Value - Axis:Y |Numeric|
+fBodyGyroMeanZ |Body gyroscope signals (frequency domain) - Mean Value - Axis:Z |Numeric|
+fBodyGyroStdX |Body gyroscope signals (frequency domain) - Standard deviation Value - Axis:X |Numeric|
+fBodyGyroStdY |Body gyroscope signals (frequency domain) - Standard deviation Value - Axis:Y |Numeric|
+fBodyGyroStdZ |Body gyroscope signals (frequency domain) - Standard deviation Value - Axis:Z |Numeric|
+fBodyGyroMeanFreqX |Body gyroscope signals (frequency domain) - Mean frequency Value - Axis:X |Numeric|
+fBodyGyroMeanFreqY |Body gyroscope signals (frequency domain) - Mean frequency Value - Axis:Y |Numeric|
+fBodyGyroMeanFreqZ |Body gyroscope signals (frequency domain) - Mean frequency Value - Axis:Z |Numeric|
+fBodyAccMagMean |Magnitude (calculated by Euclidian norm) of Body acceleration signals (frequency domain) - Mean Value |Numeric|
+fBodyAccMagStd |Magnitude (calculated by Euclidian norm) of Body acceleration signals (frequency domain) - Standard deviation Value |Numeric|
+fBodyAccMagMeanFreq |Magnitude (calculated by Euclidian norm) of Body acceleration signals (frequency domain) - Mean frequency  Value |Numeric|
+fBodyAccJerkMagMean |Magnitude (calculated by Euclidian norm) of Jerk signals for Body Linear Acceleration  (frequency domain) - Mean Value |Numeric|
+fBodyAccJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Body Linear Acceleration  (frequency domain) - Standard deviation Value |Numeric|
+fBodyAccJerkMagMeanFreq |Magnitude (calculated by Euclidian norm) of Jerk signals for Body Linear Acceleration  (frequency domain) - Mean frequency Value |Numeric|
+fBodyGyroMagMean |Magnitude (calculated by Euclidian norm) of Body gyroscope  (frequency domain) - Mean Value |Numeric|
+fBodyGyroMagStd |Magnitude (calculated by Euclidian norm) of Body gyroscope  (frequency domain) - Standard deviation Value |Numeric|
+fBodyGyroMagMeanFreq |Magnitude (calculated by Euclidian norm) of Body gyroscope  (frequency domain) - Mean frequency Value |Numeric|
+fBodyGyroJerkMagMean |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Mean Value  |Numeric|
+fBodGyroJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Standard deviation Value  |Numeric|
+fBodyGyroJerkMagmeanFreq |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Mean frequency Value  |Numeric|
 
 
 
