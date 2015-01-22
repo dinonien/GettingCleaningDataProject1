@@ -1,7 +1,7 @@
 # GettingCleaningDataProject1
 Assignment of Coursera Project for Getting and Cleaning Data
 
-##Source Date
+##Source Data
 The original data is available from here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
