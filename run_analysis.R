@@ -59,9 +59,9 @@ activity <- rename(activity,
                    fBodyGyroMeanX = V424,fBodyGyroMeanY = V425,fBodyGyroMeanZ = V426,fBodyGyroStdX = V427,fBodyGyroStdY = V428,fBodyGyroStdZ = V429,
                    fBodyGyroMeanFreqX = V452,fBodyGyroMeanFreqY = V453,fBodyGyroMeanFreqZ = V454,
                    fBodyAccMagMean = V503,fBodyAccMagStd = V504,fBodyAccMagMeanFreq = V513,
-                   fBodyBodyAccJerkMagMean = V516,fBodyBodyAccJerkMagStd = V517,fBodyBodyAccJerkMagMeanFreq = V526,
-                   fBodyBodyGyroMagMean = V529,fBodyBodyGyroMagStd = V530,fBodyBodyGyroMagMeanFreq = V539,
-                   fBodyBodyGyroJerkMagMean = V542,fBodyBodyGyroJerkMagStd = V543,fBodyBodyGyroJerkMagmeanFreq = V552
+                   fBodyAccJerkMagMean = V516,fBodyAccJerkMagStd = V517,fBodyAccJerkMagMeanFreq = V526,
+                   fBodyGyroMagMean = V529,fBodyGyroMagStd = V530,fBodyGyroMagMeanFreq = V539,
+                   fBodyGyroJerkMagMean = V542,fBodyGyroJerkMagStd = V543,fBodyGyroJerkMagmeanFreq = V552
                    )
 # Mean for each Variable grouped by Activity and Subject
 activityMean <- group_by(activity,Subject,Activity) %>% summarise_each(funs(mean))
