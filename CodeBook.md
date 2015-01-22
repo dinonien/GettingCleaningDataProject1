@@ -48,7 +48,89 @@ fBodyGyroMeanFreqX = V452,fBodyGyroMeanFreqY = V453,fBodyGyroMeanFreqZ = V454,fB
 
 **Column Description**
 
-| Column        | Description   |Data Type  |Example Value  |
-| ------------- |:-------------:|:-------------:|:-------------:|
-| Subject    | Is the subject number|Numeric|1|
-| Activity    | Is the Activity Name|Character|Walking|
+| Column        | Description   |Data Type  |
+| ------------- |:-------------:|:-------------:|
+| Subject    | Is the subject number|Numeric|
+| Activity    | Is the Activity Name|Character|
+tBodyAccMeanX |Body acceleration signals (time domain) - Mean Value - Axis: X  |Numeric|
+tBodyAccMeanY |Body acceleration signals (time domain) - Mean Value - Axis: Y |Numeric|
+tBodyAccMeanZ |Body acceleration signals (time domain) - Mean Value - Axis: Z |Numeric|
+tBodyAccStdX |Body acceleration signals (time domain) - Standard deviation Value - Axis: X |Numeric|
+tBodyAccStdY |Body acceleration signals (time domain) - Standard deviation Value - Axis: Y |Numeric|
+tBodyAccStdZ |Body acceleration signals (time domain) - Standard deviation Value - Axis: Z |Numeric|
+tGravityAccMeanX |Gravity acceleration signals (time domain) - Mean Value - Axis:X |Numeric|
+tGravityAccMeanY |Gravity acceleration signals (time domain) - Mean Value - Axis:Y |Numeric|
+tGravityAccMeanZ |Gravity acceleration signals (time domain) - Mean Value - Axis:Z |Numeric|
+tGravityAccStdX | Gravity acceleration signals (time domain) - Standard deviation Value - Axis: X |Numeric|
+tGravityAccStdY | Gravity acceleration signals (time domain) - Standard deviation Value - Axis: Y|Numeric|
+tGravityAccStdZ | Gravity acceleration signals (time domain) - Standard deviation Value - Axis: Z|Numeric|
+tBodyAccJerkMeanX | |Numeric|
+tBodyAccJerkMeanY | |Numeric|
+tBodyAccJerkMeanZ | |Numeric|
+tBodyAccJerkStdX | |Numeric|
+tBodyAccJerkStdY | |Numeric|
+tBodyAccJerkStdZ | |Numeric|
+tBodyGyroMeanX | |Numeric|
+tBodyGyroMeanY | |Numeric|
+tBodyGyroMeanZ | |Numeric|
+tBodyGyroStdX | |Numeric|
+tBodyGyroStdY | |Numeric|
+tBodyGyroStdZ | |Numeric|
+tBodyGyroJerkMeanX | |Numeric|
+tBodyGyroJerkMeanY | |Numeric|
+tBodyGyroJerkMeanZ | |Numeric|
+tBodyGyroJerkStdX | |Numeric|
+tBodyGyroJerkStdY | |Numeric|
+tBodyGyroJerkStdZ | |Numeric|
+tBodyAccMagMean | |Numeric|
+tBodyAccMagStd | |Numeric|
+tGravityAccMagMean | |Numeric|
+tGravityAccMagStd | |Numeric|
+tBodyAccJerkMagMean | |Numeric|
+tBodyAccJerkMagStd | |Numeric|
+tBodyGyroMagMean | |Numeric|
+tBodyGyroMagStd | |Numeric|
+tBodyGyroJerkMagMean | |Numeric|
+tBodyGyroJerkMagStd | |Numeric|
+fBodyAccMeanX | |Numeric|
+fBodyAccMeanY | |Numeric|
+fBodyAccMeanZ | |Numeric|
+fBodyAccStdX | |Numeric|
+fBodyAccStdY | |Numeric|
+fBodyAccStdZ | |Numeric|
+fBodyAccMeanFreqX | |Numeric|
+fBodyAccMeanFreqY | |Numeric|
+fBodyAccMeanFreqZ | |Numeric|
+fBodyAccJerkMeanX | |Numeric|
+fBodyAccJerkMeanY | |Numeric|
+fBodyAccJerkMeanZ | |Numeric|
+fBodyAccJerkStdX | |Numeric|
+fBodyAccJerkStdY | |Numeric|
+fBodyAccJerkStdZ | |Numeric|
+fBodyAccJerkMeanFreqX | |Numeric|
+fBodyAccJerkMeanFreqY | |Numeric|
+fBodyAccJerkMeanFreqZ | |Numeric|
+fBodyGyroMeanX | |Numeric|
+fBodyGyroMeanY | |Numeric|
+fBodyGyroMeanZ | |Numeric|
+fBodyGyroStdX | |Numeric|
+fBodyGyroStdY | |Numeric|
+fBodyGyroStdZ | |Numeric|
+fBodyGyroMeanFreqX | |Numeric|
+fBodyGyroMeanFreqY | |Numeric|
+fBodyGyroMeanFreqZ | |Numeric|
+fBodyAccMagMean | |Numeric|
+fBodyAccMagStd | |Numeric|
+fBodyAccMagMeanFreq | |Numeric|
+fBodyBodyAccJerkMagMean | |Numeric|
+fBodyBodyAccJerkMagStd | |Numeric|
+fBodyBodyAccJerkMagMeanFreq | |Numeric|
+fBodyBodyGyroMagMean | |Numeric|
+fBodyBodyGyroMagStd | |Numeric|
+fBodyBodyGyroMagMeanFreq | |Numeric|
+fBodyBodyGyroJerkMagMean | |Numeric|
+fBodyBodyGyroJerkMagStd | |Numeric|
+fBodyBodyGyroJerkMagmeanFreq | |Numeric|
+
+
+
