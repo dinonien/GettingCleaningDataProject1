@@ -22,7 +22,7 @@ y_train.txt respectively y_train.txt -> File with features per observation (ther
 
 From the raw files a tidy dataset called "activity" is created which is in the following form:
 
-| Subject        | Activity           | Features 1:n (containing mean,mean frequency and standard deviation values  |
+| Subject        | Activity           | Features 1:n (containing mean,mean frequency and standard deviation values)  |
 | ------------- |:-------------:| -----:|
 
 Each rows contains one observation.
@@ -136,14 +136,18 @@ fBodyGyroJerkMagmeanFreq |Magnitude (calculated by Euclidian norm) of Jerk signa
 
 From the tidy dataset called "activity" a dataset activityMean is created which is in the following form:
 
-| Subject        | Activity           | Features 1:n (containing mean,mean frequency and standard deviation values  |
+| Subject        | Activity           | Features 1:n (containing mean,mean frequency and standard deviation values)  |
 | ------------- |:-------------:| -----:|
 
 Each rows contains one row per subject and activity - the values of the features are averaged across the observation per subject and activity.
 
+Remark: angle() variables are not included - as these can be calculated by calculating the angle between the vectors.
+
 **Transformations done**
 
 Group by Subject and Activity created and observation averaged (mean) across these groups.
+
+Remark: angle() variables are not included - as these can be calculated by calculating the angle between the vectors.
 
 **Column Description**
 
