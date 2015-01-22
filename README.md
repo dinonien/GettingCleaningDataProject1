@@ -41,8 +41,20 @@ codebook.md: Contains a code book which describes the variables, the data, and a
 
 /data/test/* : Contains raw data files for testing the algorithm
 
-#Run Analysis
+#run_analysis.R Description
 
-Source run_analysis.R 
+1.  Package dplyr is installed respectively loaded
+2.  Text files are loaded into dataframes and column renamed in order to avoid duplicate file names
+3.  activity dataframe is created by row bind test / training data frames and column bind (subject, features and output variables)
+4.  activity dataframe only mean and standard deviation columns are kept
+5.  activity column is factorized and descriptive values are introduced
+6.  activity dataframe descriptive variable names for features are introduced
+7.  activityMean dataframe is created which is a dataframe grouped by subject and activity and contains mean of every feature variable
+8.  activityMean is written to file tidyDataMean.txt
+
+
+#run_analysis.R Usage
+
+source(run_analysis.R)
 
 Note: Make sure files in data directory und subdirectory exists
