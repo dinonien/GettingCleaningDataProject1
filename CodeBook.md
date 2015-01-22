@@ -52,38 +52,38 @@ fBodyGyroMeanFreqX = V452,fBodyGyroMeanFreqY = V453,fBodyGyroMeanFreqZ = V454,fB
 | ------------- |:-------------:|:-------------:|
 | Subject    | Is the subject number|Numeric|
 | Activity    | Is the Activity Name|Character|
-tBodyAccMeanX |Body acceleration signals (time domain) - Mean Value - Axis: X  |Numeric|
-tBodyAccMeanY |Body acceleration signals (time domain) - Mean Value - Axis: Y |Numeric|
-tBodyAccMeanZ |Body acceleration signals (time domain) - Mean Value - Axis: Z |Numeric|
-tBodyAccStdX |Body acceleration signals (time domain) - Standard deviation Value - Axis: X |Numeric|
-tBodyAccStdY |Body acceleration signals (time domain) - Standard deviation Value - Axis: Y |Numeric|
-tBodyAccStdZ |Body acceleration signals (time domain) - Standard deviation Value - Axis: Z |Numeric|
+tBodyAccMeanX |Body acceleration signals (time domain) - Mean Value - Axis:X  |Numeric|
+tBodyAccMeanY |Body acceleration signals (time domain) - Mean Value - Axis:Y |Numeric|
+tBodyAccMeanZ |Body acceleration signals (time domain) - Mean Value - Axis:Z |Numeric|
+tBodyAccStdX |Body acceleration signals (time domain) - Standard deviation Value - Axis:X |Numeric|
+tBodyAccStdY |Body acceleration signals (time domain) - Standard deviation Value - Axis:Y |Numeric|
+tBodyAccStdZ |Body acceleration signals (time domain) - Standard deviation Value - Axis:Z |Numeric|
 tGravityAccMeanX |Gravity acceleration signals (time domain) - Mean Value - Axis:X |Numeric|
 tGravityAccMeanY |Gravity acceleration signals (time domain) - Mean Value - Axis:Y |Numeric|
 tGravityAccMeanZ |Gravity acceleration signals (time domain) - Mean Value - Axis:Z |Numeric|
-tGravityAccStdX | Gravity acceleration signals (time domain) - Standard deviation Value - Axis: X |Numeric|
-tGravityAccStdY | Gravity acceleration signals (time domain) - Standard deviation Value - Axis: Y|Numeric|
-tGravityAccStdZ | Gravity acceleration signals (time domain) - Standard deviation Value - Axis: Z|Numeric|
-tBodyAccJerkMeanX | |Numeric|
-tBodyAccJerkMeanY | |Numeric|
-tBodyAccJerkMeanZ | |Numeric|
-tBodyAccJerkStdX | |Numeric|
-tBodyAccJerkStdY | |Numeric|
-tBodyAccJerkStdZ | |Numeric|
-tBodyGyroMeanX | |Numeric|
-tBodyGyroMeanY | |Numeric|
-tBodyGyroMeanZ | |Numeric|
-tBodyGyroStdX | |Numeric|
-tBodyGyroStdY | |Numeric|
-tBodyGyroStdZ | |Numeric|
-tBodyGyroJerkMeanX | |Numeric|
-tBodyGyroJerkMeanY | |Numeric|
-tBodyGyroJerkMeanZ | |Numeric|
-tBodyGyroJerkStdX | |Numeric|
-tBodyGyroJerkStdY | |Numeric|
-tBodyGyroJerkStdZ | |Numeric|
-tBodyAccMagMean | |Numeric|
-tBodyAccMagStd | |Numeric|
+tGravityAccStdX | Gravity acceleration signals (time domain) - Standard deviation Value - Axis:X |Numeric|
+tGravityAccStdY | Gravity acceleration signals (time domain) - Standard deviation Value - Axis:Y|Numeric|
+tGravityAccStdZ | Gravity acceleration signals (time domain) - Standard deviation Value - Axis:Z|Numeric|
+tBodyAccJerkMeanX |Jerk signals for Body Linear Acceleration (time domain) - Mean Value - Axis:X |Numeric|
+tBodyAccJerkMeanY |Jerk signals for Body Linear Acceleration (time domain) - Mean Value - Axis:Y |Numeric|
+tBodyAccJerkMeanZ |Jerk signals for Body Linear Acceleration (time domain) - Mean Value - Axis:Z |Numeric|
+tBodyAccJerkStdX |Jerk signals for Body Linear Acceleration (time domain) - Standard deviation Value - Axis:X |Numeric|
+tBodyAccJerkStdY |Jerk signals for Body Linear Acceleration (time domain) - Standard deviation Value - Axis:Y |Numeric|
+tBodyAccJerkStdZ |Jerk signals for Body Linear Acceleration (time domain) - Standard deviation Value - Axis:Z |Numeric|
+tBodyGyroMeanX |Body gyroscope signals (time domain) - Mean Value - Axis:X  |Numeric|
+tBodyGyroMeanY |Body gyroscope signals (time domain) - Mean Value - Axis:Y |Numeric|
+tBodyGyroMeanZ |Body gyroscope signals (time domain) - Mean Value - Axis:Z |Numeric|
+tBodyGyroStdX | Body gyroscope signals (time domain) - Standard Value - Axis:X|Numeric|
+tBodyGyroStdY |Body gyroscope signals (time domain) - Standard Value - Axis:Y |Numeric|
+tBodyGyroStdZ |Body gyroscope signals (time domain) - Standard Value - Axis:Z |Numeric|
+tBodyGyroJerkMeanX |Jerk signals for Angular Velocity (time domain) - Mean Value - Axis:X  |Numeric|
+tBodyGyroJerkMeanY |Jerk signals for Angular Velocity (time domain) - Mean Value - Axis:Y |Numeric|
+tBodyGyroJerkMeanZ |Jerk signals for Angular Velocity (time domain) - Mean Value - Axis:Z |Numeric|
+tBodyGyroJerkStdX |Jerk signals for Angular Velocity (time domain) - Standard deviation Value - Axis:X|Numeric|
+tBodyGyroJerkStdY |Jerk signals for Angular Velocity (time domain) - Standard deviation Value - Axis:Y |Numeric|
+tBodyGyroJerkStdZ |Jerk signals for Angular Velocity (time domain) - Standard deviation Value - Axis:Z |Numeric|
+tBodyAccMagMean |Magnitude (calculated by Euclidian norm) of Body acceleration signals (time domain) - Mean Value |Numeric|
+tBodyAccMagStd |Magnitude (calculated by Euclidian norm) of Body acceleration signals (time domain) - Standard deviation Value |Numeric|
 tGravityAccMagMean | |Numeric|
 tGravityAccMagStd | |Numeric|
 tBodyAccJerkMagMean | |Numeric|
