@@ -129,7 +129,7 @@ fBodyGyroMagMean |Magnitude (calculated by Euclidian norm) of Body gyroscope  (f
 fBodyGyroMagStd |Magnitude (calculated by Euclidian norm) of Body gyroscope  (frequency domain) - Standard deviation Value |Numeric|
 fBodyGyroMagMeanFreq |Magnitude (calculated by Euclidian norm) of Body gyroscope  (frequency domain) - Mean frequency Value |Numeric|
 fBodyGyroJerkMagMean |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Mean Value  |Numeric|
-fBodGyroJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Standard deviation Value  |Numeric|
+fBodyGyroJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Standard deviation Value  |Numeric|
 fBodyGyroJerkMagmeanFreq |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Mean frequency Value  |Numeric|
 
 ##  Codebook for Dataset activityMean
@@ -228,6 +228,6 @@ fBodyGyroMagMean |Magnitude (calculated by Euclidian norm) of Body gyroscope  (f
 fBodyGyroMagStd |Magnitude (calculated by Euclidian norm) of Body gyroscope  (frequency domain) - Standard deviation Value |Numeric|
 fBodyGyroMagMeanFreq |Magnitude (calculated by Euclidian norm) of Body gyroscope  (frequency domain) - Mean frequency Value |Numeric|
 fBodyGyroJerkMagMean |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Mean Value  |Numeric|
-fBodGyroJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Standard deviation Value  |Numeric|
+fBodyGyroJerkMagStd |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Standard deviation Value  |Numeric|
 fBodyGyroJerkMagmeanFreq |Magnitude (calculated by Euclidian norm) of Jerk signals for Angular Velocity  (frequency domain) - Mean frequency Value  |Numeric|
 
