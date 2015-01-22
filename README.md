@@ -57,4 +57,4 @@ codebook.md: Contains a code book which describes the variables, the data, and a
 
 source(run_analysis.R)
 
-Note: Make sure files in data directory und subdirectory exists
+Note: Make sure files are in data directory und subdirectory exists
